@@ -1,0 +1,1 @@
+print('Hallo! Marie ist lustig!')
